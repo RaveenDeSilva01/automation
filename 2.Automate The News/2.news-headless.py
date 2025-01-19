@@ -4,7 +4,7 @@ from selenium.webdriver.chrome.service import Service
 import pandas as pd
 
 web = 'https://www.thesun.co.uk/sport/football/'
-path = '/Users/frankandrade/Downloads/chromedriver'  # introduce path here
+path = 'chromedriver.exe'  # introduce path here
 
 # add headless mode
 options = Options()
